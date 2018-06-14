@@ -6,4 +6,10 @@ var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 var topic = 'space';
 
-var conversation = '${'Let/'s talk about space.}';
+var conversation = '${Let'switch (expression) {
+  case expression:
+
+    break;
+  default:
+
+} talk about space.}';
